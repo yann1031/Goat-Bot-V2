@@ -19,15 +19,15 @@
     ]
   },
   "adminBot": [
-    "100071880593545",
+    "61578889076410", "61589793750828"
     ""
   ],
   "DEV": [
-    "100071880593545",
+    "61578889076410", "61589793750828"
     ""
   ],
   "GOD": [
-    "100071880593545",
+    "61578889076410", "61589793750828"
     ""
   ],
   "whiteListMode": {
@@ -35,11 +35,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Goat-Bot-V2",
-  "prefix": "/",
+  "nickNameBot": "goat-got-V2",
+  "prefix": "~",
   "autoSetNickname": true,
-  "authorFB": "https://www.facebook.com/profile.php?id=100071880593545",
-  "authorName": "AminulSardar",
+  "authorFB": "https://www.facebook.com/profile.php?id=61578889076410",
+  "authorName": "yann",
   "authorEmail": "secret",
   "database": {
     "type": "sqlite",
